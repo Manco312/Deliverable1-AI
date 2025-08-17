@@ -12,6 +12,7 @@ The challenge consists of a farmer who needs to ferry a wolf, a sheep, and a cab
 ## Genetic Algorithm 🧬  
 
 In this section, we implemented a **Genetic Algorithm** to automatically design a **weekly workout routine**.  
+
 The algorithm generates and optimizes a 7-day training schedule that balances different muscle groups (Back, Chest, Legs, Arms) while ensuring enough rest days and avoiding overtraining.
 
 **For more information visit the** [Wiki](https://github.com/Manco312/Deliverable1-AI/wiki)
